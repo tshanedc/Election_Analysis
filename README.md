@@ -44,6 +44,6 @@ I applied *for* loops and conditional statements to the existing dataset to comp
 In the below **Figure 3** you can see one mechanism which helped our firm tabulate the vote percent across the three counties. These scripts could be modified to include other variables the government is interested in measuring. For example, if given the necessary data, we could define variables that measure track voter gender, income level, race/ ethnicity, or other demographic measures and provide insight into voter preferences. The government could make note of underrepresented demographics by providing overall population as well as registered voter population data to see which demographics are underrepresented in the electoral process. Armed with this information, public agencies could improve voter participation with targetted information campaigns to increase awareness of elections and ease the process of participating in the electoral process.
  
  #### Figure 3
- !For_Loop_County_InCounty_Votes2](For_Loop_County_InCounty_Votes2.png)
+ ![For_Loop_County_InCounty_Votes2](For_Loop_County_InCounty_Votes2.png)
  
 It is important to keep in mind, whenever sharing voter data that identifiable factors are scrubbed and disconnected from the dataset as bad actors can capture this information and act with malicious intent based on this information. 
