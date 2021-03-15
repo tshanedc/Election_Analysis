@@ -28,11 +28,14 @@ I applied *for* loops and conditional statements to the existing dataset to comp
     - Denver County collected 82.8% of the vote.
     - Jefferson County collected 10.5% of the vote.
     - Arapahoe County comprised the smallest share of the total vote, 6.7%.
+ #### Figure 1: County Vote Totals
+ ![6eTextBoxSolution](6eTextBoxSolution.png)
  + Denver County was the county where the largest number of votes were cast, 306,055 votes.
  + The results were as follows:
     - In first place, and therefore the winning candidate, was Diana DeGette with 272,892 votes. This was 73.8% of all votes cast.
     - In second place with 85,213 votes (23% of popular vote) was Charles Casper Stockham.
     - In third place with a mere 3.1% or 11,606 votes was Raymon Anthony Doane.
- ![Full_Result_Photo1](Full_Result_Photo1.png)
+ #### Figure 2: Final Results, 100% of Pricincts Reporting
+ ![Candidate_Results_Photo4](Candidate_Results_Photo4.png)
  
- ## Election-Audit Summary:,
+ ## Election-Audit Summary:
