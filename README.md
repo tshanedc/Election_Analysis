@@ -36,6 +36,6 @@ I applied *for* loops and conditional statements to the existing dataset to comp
     - In second place with 85,213 votes (23% of popular vote) was Charles Casper Stockham.
     - In third place with a mere 3.1% or 11,606 votes was Raymon Anthony Doane.
  #### Figure 2: Final Results, 100% of Pricincts Reporting
- ![Candidate_Results_Photo4](Candidate_Results_Photo4.png)
+ ![Candidate_Result_Photo4](Candidate_Result_Photo4.png)
  
  ## Election-Audit Summary:
