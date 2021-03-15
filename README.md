@@ -14,16 +14,7 @@ A Colorado Board of Elections requested that I complete the following tasks to c
 ## Resources
  Data Source: election_results.csv
  Software: Python 3.9, Visual Studio Code, 1.54.2
- 
- ## Election Results Summary
- The analysis of the election show that:
- There were 369,711 votes cast.
- The candidates were Diana DeGette, Charles Casper Stockham, and Raymon Anthony Donae.
- The results were as follows:
- In first place, and therefore the winning candidate, was Diana DeGette with 272,892 votes. This was 73.8% of all votes cast.
- In second place with 85,213 votes (23% of popular vote) was Charles Casper Stockham.
- In third place with a mere 3.1% or 11,606 votes was Raymon Anthony Doane.
- 
+  
  ## Overview of Election Audit:
  After completing the initial results analysis, I was asked by the election officials to provide some additional data:
  1. The voter turnout for each county
@@ -42,5 +33,6 @@ I applied *for* loops and conditional statements to the existing dataset to comp
     - In first place, and therefore the winning candidate, was Diana DeGette with 272,892 votes. This was 73.8% of all votes cast.
     - In second place with 85,213 votes (23% of popular vote) was Charles Casper Stockham.
     - In third place with a mere 3.1% or 11,606 votes was Raymon Anthony Doane.
+ ![Full_Result_Photo1.png](Full_Result_Photo1.png)
  
  ## Election-Audit Summary:,
