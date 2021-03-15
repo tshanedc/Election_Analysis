@@ -39,11 +39,17 @@ I applied *for* loops and conditional statements to the existing dataset to comp
  ![Candidate_Result_Photo4](Candidate_Result_Photo4.png)
  
  ## Election-Audit Summary:
- Our firm is honored to serve the fine State of Colorado and the Election Commission in safeguarding and verifying the most recent congressional election, and we look forward to continuing to support and protect this most treasured right, the right to vote, in future elections. Awarding the election analysis re-compete contract to our firm would lend the Government cost savings not present with other firms. Our proprietary script that was developed for this engagement, can be modified to support other applications with relative ease.
+Our firm is honored to serve the fine State of Colorado and the Election Commission in safeguarding and verifying the most recent congressional election, and we look forward to continuing to support and protect this most treasured right, the right to vote, in future elections. Awarding the election analysis re-compete contract to our firm would lend the Government cost savings not present with other firms. Our proprietary script that was developed for this engagement, can be modified to support other applications with relative ease.
  
- **Figure 3** below, shows how our firm defined the key variables for the candidates and counties. These scripts could be modified to include other variables the government is interested in measuring. For example, if given the necessary data, we could define variables that measure track voter gender, income level, race/ ethnicity, or other demographic measures and provide insight into voter preferences. The government could make note of underrepresented demographics by providing overall population as well as registered voter population data to see which demographics are underrepresented in the electoral process. Armed with this information, public agencies could improve voter participation with targetted information campaigns to increase awareness of elections and ease the process of participating in the electoral process.
+ **Figure 3** below, shows how our firm defined the key variables for the candidates and counties. These scripts could be modified to include other variables the government is interested in measuring. For example, if given the necessary data, we could define variables that measure track voter gender, income level, race/ ethnicity, or other demographic measures and provide insight into voter preferences. The government could make note of underrepresented demographics by providing overall population as well as registered voter population data to see which demographics are underrepresented in the electoral process. Armed with this information, public agencies could improve voter participation with targetted information campaigns to increase awareness of elections and ease the process of participating in the electoral process. 
+ 
+**Note** It is important to keep in mind, whenever sharing voter data that identifiable factors are scrubbed and disconnected from the dataset as bad actors can capture this information and act with malicious intent based on this information.
  
  #### Figure 3
  ![County_CandidateNames](County_CandidateNames.png)
  
-It is important to keep in mind, whenever sharing voter data that identifiable factors are scrubbed and disconnected from the dataset as bad actors can capture this information and act with malicious intent based on this information. 
+Another application this project could be adjusted for includes the collection and reporting of other types of votes, beyond candidates. Given the nature of how we define the variables and the clearly defined limitations on the types of data this format is approved for, we could easily collect "Yes"/"No" responses to ballot measures by utilizing Boolean (True, False) data type. 
+
+We appreciate your considering our firm for these types of future engagements.
+ 
+ 
