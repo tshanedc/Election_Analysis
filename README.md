@@ -33,6 +33,6 @@ I applied *for* loops and conditional statements to the existing dataset to comp
     - In first place, and therefore the winning candidate, was Diana DeGette with 272,892 votes. This was 73.8% of all votes cast.
     - In second place with 85,213 votes (23% of popular vote) was Charles Casper Stockham.
     - In third place with a mere 3.1% or 11,606 votes was Raymon Anthony Doane.
- ![Full_Result_Photo1.png](Full_Result_Photo1.png)
+ ![Full_Result_Photo1](Full_Result_Photo1.png)
  
  ## Election-Audit Summary:,
